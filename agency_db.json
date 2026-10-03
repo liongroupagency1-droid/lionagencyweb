@@ -1,0 +1,66 @@
+{
+  "version": "2.0.0",
+  "timestamp": "2026-09-26T00:00:00.000Z",
+  "company": "LION GROUP AGENCY, DAHOD",
+  "users": [
+    {
+      "id": "usr-admin",
+      "username": "admin",
+      "name": "Lion Admin",
+      "email": "admin@lionagency.com",
+      "mobile": "9825098250",
+      "role": "SUPER ADMIN",
+      "status": "ACTIVE",
+      "password": "admin123",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "usr-supervisor",
+      "username": "supervisor",
+      "name": "Supervisor",
+      "email": "supervisor@lionagency.com",
+      "mobile": "9876543210",
+      "role": "SUPERVISOR",
+      "status": "ACTIVE",
+      "password": "super123",
+      "createdAt": "2026-01-02T00:00:00.000Z"
+    },
+    {
+      "id": "usr-officer1",
+      "username": "officer1",
+      "name": "Collection Officer 1",
+      "email": "officer1@lionagency.com",
+      "mobile": "9898012345",
+      "role": "COLLECTION OFFICER",
+      "status": "ACTIVE",
+      "password": "officer123",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    },
+    {
+      "id": "usr-repo1",
+      "username": "repo1",
+      "name": "Repo Officer 1",
+      "email": "repo1@lionagency.com",
+      "mobile": "9723045678",
+      "role": "REPO OFFICER",
+      "status": "ACTIVE",
+      "password": "repo123",
+      "createdAt": "2026-01-05T00:00:00.000Z"
+    }
+  ],
+  "financeCompanies": [],
+  "cases": [],
+  "collections": [],
+  "expenses": [],
+  "dailyHisab": [],
+  "officers": [],
+  "attendance": [],
+  "salaries": [],
+  "payoutRules": [],
+  "payouts": [],
+  "vehicleYards": [],
+  "repoReleases": [],
+  "visits": [],
+  "customFields": [],
+  "auditLogs": []
+}

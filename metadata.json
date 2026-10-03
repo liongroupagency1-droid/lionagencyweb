@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Lion Group Agency - Recovery \u0026 Collection Management System",
+  "description": "Vehicle finance recovery, collection, repossession, yard, daily hisab, and officer management software for Lion Group Agency, Dahod, Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
